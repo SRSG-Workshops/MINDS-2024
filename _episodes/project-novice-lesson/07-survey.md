@@ -1,5 +1,5 @@
 ---
-lesson_title: 'Managing Academic Software Development'
+lesson_title: 'Software Project Management'
 lesson_schedule_slug: project-novice-schedule
 title: "Survey"
 slug: project-novice-survey
